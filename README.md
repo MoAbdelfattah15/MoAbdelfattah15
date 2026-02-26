@@ -1,76 +1,68 @@
-# Mohamed Abdelfattah 👋  
+# Hi there, I'm Mohamed Abdelfattah 👋  
 
-**Data Science Student | Machine Learning Engineer in Progress | CS & Mathematics Major**
+## 🚀 Data Science Student | CS & Math Major  
 
----
-
-## 🚀 Overview  
-
-I’m Mohamed Abdelfattah, a Computer Science & Mathematics student specializing in **Data Science and Machine Learning**.  
-
-I focus on building a strong mathematical foundation and applying it to real-world AI systems. My goal is not just to use ML libraries — but to deeply understand how algorithms work and implement intelligent solutions efficiently.
-
-🎯 **Mission:** Build scalable, data-driven systems and grow into a professional Machine Learning Engineer.
+I'm **Mohamed Abdelfattah**, a Data Science enthusiast and a Computer Science & Mathematics student at the Faculty of Science.  
+I’m passionate about turning data into insights and building intelligent systems using AI & Machine Learning.
 
 ---
 
-## 🧠 What I’m Building  
+## 👨‍💻 About Me  
 
-- 📊 End-to-end Data Analysis projects  
-- 🤖 Supervised & Unsupervised ML models  
-- 📈 Predictive systems using real-world datasets  
-- 🧮 Implementing ML algorithms from scratch  
-- 🏆 Strengthening problem-solving through competitive programming  
+- 🎓 CS & Math student at Faculty of Science  
+- 📊 Specializing in Data Science & Machine Learning  
+- 🧠 Interested in AI, Deep Learning & Mathematics  
+- 📈 Improving my problem-solving & competitive programming skills  
+- 🤝 Open to collaboration on Data Science & AI projects  
+- 🎯 Goal: Become a professional Machine Learning Engineer  
 
 ---
 
-## 🛠 Technical Stack  
+### Languages and Tools:
 
-### 👨‍💻 Programming  
-- Python  
-- C++  
+<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
+<img align="left" alt="NumPy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Matplotlib" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Scikit-Learn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" style="padding-right:10px;" />
+<img align="left" alt="PyTorch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="padding-right:10px;" />
+<img align="left" alt="TensorFlow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
 
-### 📊 Data & Machine Learning  
+<br />
+<br />
+
+---
+
+### 📚 Data Science Stack:
+- Python 🐍  
 - NumPy  
 - Pandas  
 - Matplotlib & Seaborn  
 - Scikit-Learn  
-- TensorFlow (Foundations)  
-- PyTorch (Foundations)  
-
-### 🧰 Tools  
-- Git & GitHub  
-- Jupyter Notebook  
-- VS Code  
+- TensorFlow / PyTorch (Learning)  
 
 ---
 
-## 📌 Current Focus  
+## 📊 GitHub Stats  
 
-- Linear Algebra & Probability for ML  
-- Deep Learning fundamentals  
-- Writing production-quality Python code  
-- Building a strong ML project portfolio  
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
 
----
-
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-> Replace `YOUR_USERNAME` with your actual GitHub username.
+<br/><br/><br/>
 
 ---
 
-## 🔥 Future Direction  
+## 🔥 Currently Working On  
 
-- Advanced Machine Learning  
-- Deep Learning & Neural Networks  
-- Applied AI Systems  
-- MLOps & scalable ML pipelines  
+- Machine Learning Projects  
+- Data Analysis Case Studies  
+- Strengthening Mathematical Foundations  
+- Building my Data Science Portfolio  
 
 ---
 
-## 💡 Mindset  
+## 💡 Quote I Believe In  
 
-> “Strong foundations build strong systems.”
+> "Data is the new oil, but insight is the new gold."
