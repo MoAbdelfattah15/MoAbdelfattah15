@@ -1,68 +1,76 @@
-# Hi there, I'm Mohamed Abdelfattah 👋  
+# Mohamed Abdelfattah 👋  
 
-## 🚀 Data Science Student | CS & Math Major  
-
-I'm **Mohamed Abdelfattah**, a Data Science enthusiast and a Computer Science & Mathematics student at the Faculty of Science.  
-I’m passionate about turning data into insights and building intelligent systems using AI & Machine Learning.
+**Data Science Student | Machine Learning Engineer in Progress | CS & Mathematics Major**
 
 ---
 
-## 👨‍💻 About Me  
+## 🚀 Overview  
 
-- 🎓 CS & Math student at Faculty of Science  
-- 📊 Specializing in Data Science & Machine Learning  
-- 🧠 Interested in AI, Deep Learning & Mathematics  
-- 📈 Improving my problem-solving & competitive programming skills  
-- 🤝 Open to collaboration on Data Science & AI projects  
-- 🎯 Goal: Become a professional Machine Learning Engineer  
+I’m Mohamed Abdelfattah, a Computer Science & Mathematics student specializing in **Data Science and Machine Learning**.  
 
----
+I focus on building a strong mathematical foundation and applying it to real-world AI systems. My goal is not just to use ML libraries — but to deeply understand how algorithms work and implement intelligent solutions efficiently.
 
-### Languages and Tools:
-
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
-<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
-<img align="left" alt="NumPy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Matplotlib" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Scikit-Learn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" style="padding-right:10px;" />
-<img align="left" alt="PyTorch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="padding-right:10px;" />
-<img align="left" alt="TensorFlow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:10px;" />
-
-<br />
-<br />
+🎯 **Mission:** Build scalable, data-driven systems and grow into a professional Machine Learning Engineer.
 
 ---
 
-### 📚 Data Science Stack:
-- Python 🐍  
+## 🧠 What I’m Building  
+
+- 📊 End-to-end Data Analysis projects  
+- 🤖 Supervised & Unsupervised ML models  
+- 📈 Predictive systems using real-world datasets  
+- 🧮 Implementing ML algorithms from scratch  
+- 🏆 Strengthening problem-solving through competitive programming  
+
+---
+
+## 🛠 Technical Stack  
+
+### 👨‍💻 Programming  
+- Python  
+- C++  
+
+### 📊 Data & Machine Learning  
 - NumPy  
 - Pandas  
 - Matplotlib & Seaborn  
 - Scikit-Learn  
-- TensorFlow / PyTorch (Learning)  
+- TensorFlow (Foundations)  
+- PyTorch (Foundations)  
+
+### 🧰 Tools  
+- Git & GitHub  
+- Jupyter Notebook  
+- VS Code  
 
 ---
 
-## 📊 GitHub Stats  
+## 📌 Current Focus  
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-
-<br/><br/><br/>
-
----
-
-## 🔥 Currently Working On  
-
-- Machine Learning Projects  
-- Data Analysis Case Studies  
-- Strengthening Mathematical Foundations  
-- Building my Data Science Portfolio  
+- Linear Algebra & Probability for ML  
+- Deep Learning fundamentals  
+- Writing production-quality Python code  
+- Building a strong ML project portfolio  
 
 ---
 
-## 💡 Quote I Believe In  
+## 📈 GitHub Stats  
 
-> "Data is the new oil, but insight is the new gold."
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+> Replace `YOUR_USERNAME` with your actual GitHub username.
+
+---
+
+## 🔥 Future Direction  
+
+- Advanced Machine Learning  
+- Deep Learning & Neural Networks  
+- Applied AI Systems  
+- MLOps & scalable ML pipelines  
+
+---
+
+## 💡 Mindset  
+
+> “Strong foundations build strong systems.”
