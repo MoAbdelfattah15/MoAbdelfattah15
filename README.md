@@ -16,7 +16,15 @@ I’m passionate about turning data into insights and building intelligent syste
 - 🤝 Open to collaboration on Data Science & AI projects  
 - 🎯 Goal: Become a professional Machine Learning Engineer  
 
+
 ---
+
+## 🌐 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Abdelfattah-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohamed-abdelfattah-372623352)
+
+---
+
 
 ### Languages and Tools:
 
@@ -45,7 +53,6 @@ I’m passionate about turning data into insights and building intelligent syste
 - TensorFlow / PyTorch (Learning)  
 
 ---
-
 ## 📊 GitHub Stats  
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
