@@ -53,10 +53,16 @@ I’m passionate about turning data into insights and building intelligent syste
 - TensorFlow / PyTorch (Learning)  
 
 ---
-## 📊 GitHub Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=MoAbdelfattah15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+## 📊 GitHub Analytics  
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoAbdelfattah15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoAbdelfattah15&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MoAbdelfattah15&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ## 🔥 Currently Working On  
 
