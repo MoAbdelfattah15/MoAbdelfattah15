@@ -55,8 +55,7 @@ I’m passionate about turning data into insights and building intelligent syste
 ---
 ## 📊 GitHub Stats  
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=MoAbdelfattah15&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 <br/><br/><br/>
 
 ---
